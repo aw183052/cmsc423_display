@@ -1,0 +1,1 @@
+python3 /autograder/submission/reverse_bwt.py

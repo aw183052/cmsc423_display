@@ -1,1 +1,0 @@
-python3 /autograder/submission/lloyd_algorithm.py
